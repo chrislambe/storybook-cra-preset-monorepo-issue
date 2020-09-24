@@ -1,0 +1,6 @@
+{
+  "name": "storybook-cra-monorepo-issue",
+  "workspaces": [
+    "packages/*"
+  ]
+}
